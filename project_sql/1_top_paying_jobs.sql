@@ -2,7 +2,7 @@
 Question: What are the top paying data engineer jobs?
 - Identify the top 10 highest-paying Data Engineer roles that are available remotely.
 - Focuses on job postings with specified salaries (remove nulls).
-- Why? Highlight the top-paying opportunities for Data Engineers, offering insights into empl
+- Why? Highlight the top-paying opportunities for Data Engineers, offering insights into employment opportunities 
 
 - Additionally, show the companies that offer these top-paying job for Data Engineer roles.
 */
