@@ -43,7 +43,7 @@ High-paying DE roles assume:
 * You *already* know SQL, Python, cloud
 * Salary is driven by what you bring **on top of the baseline**
 
-Resulta from the query:
+Results from the query:
 [
   {
     "skills": "assembly",
