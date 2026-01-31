@@ -127,7 +127,7 @@ This suggests that **remote work is not a trade-off for lower pay** in data engi
 
 **Takeaway:** Geography is becoming less relevant than seniority and impact for top compensation.
 
-![Alt text](assets\role_type_vs_average_salary.png)
+![](assets\role_type_vs_average_salary.png)
 
 > _This chart shows how compensation increases with seniority among data engineering roles. Staff, Principal, and Director-level positions command the highest average salaries, while standard Data Engineer roles appear lower even within top-paying postings._
 
